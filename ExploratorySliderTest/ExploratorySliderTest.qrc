@@ -1,0 +1,8 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+  <file alias="icon">Data/ExploratorySliderTest.ico</file>
+  <file alias="shader">perPixelLighting.xml</file>
+  <file alias="triangle">Data/triangle.png</file>
+  <file alias="square">Data/square.png</file>
+</qresource>
+</RCC>
